@@ -27,7 +27,7 @@ Copy Hello World from express.js getting started
 -----------------------------------------------
 Copy Hello_World_ code snippet from webpage and paste into index.js.
 
-.. _Hello_World: http://expressjs.com/en/starter/hello-world.html_
+.. _Hello_World: http://expressjs.com/en/starter/_
 
 Run index.js
 ------------
