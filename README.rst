@@ -37,5 +37,7 @@ Go to browser to view response
 ------------------------------
 Combine source IP address and open port in URL
 
+Enter the IP adress of the box you're shelling into and the listening port.
+
 `192.168.0.154:3000`
 
