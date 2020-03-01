@@ -4,6 +4,7 @@ Express App Quick Start
 Create a folder
 ---------------
 mkdir blah
+
 cd to blah
 
 Initialize npm
@@ -17,6 +18,7 @@ npm install --save express
 Create index.js file
 --------------------
 touch index.js
+
 vi index.js
 
 Copy Hello World from expressjs getting started
