@@ -25,9 +25,9 @@ vi index.js
 
 Copy Hello World from express.js getting started
 -----------------------------------------------
-Copy Hello_World_ code snippet from webpage and paste into index.js.
+Copy Hello_World code snippet from expressjs_ webpage 'getting started' and paste into index.js.
 
-.. _Hello_World: http://expressjs.com/en/starter/_
+.. _expressjs: http://expressjs.com/
 
 Run index.js
 ------------
